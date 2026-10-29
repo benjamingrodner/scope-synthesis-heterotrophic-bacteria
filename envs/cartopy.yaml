@@ -1,0 +1,12 @@
+name: cartopy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy>=1.20
+  - matplotlib>=3.5
+  - cartopy>=0.20
+  - pandas=2.3
+  - xarray=2025.4
+  - netcdf4=1.7
